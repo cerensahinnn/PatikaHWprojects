@@ -1,2 +1,2 @@
 # PatikaHWprojects
-Patikadev ile öğrendiklerimi ve ödevlerimi yapıp kaydettiğim dosyam budur. 
+Patikadev ile öğrendiklerimi yazdığım ve ödevlerimi yapıp kaydettiğim public dosyam budur. 
